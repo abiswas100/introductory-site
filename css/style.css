@@ -36,7 +36,7 @@ ul{
 
 /* Header **/
 header{
-  background:#35424a;
+  background:#235370;
   color:#ffffff;
   padding-top:30px;
   min-height:70px;
@@ -75,7 +75,7 @@ header .highlight, header .current a{
 }
 
 header a:hover{
-  color:#cccccc;
+  color:#1bc754;
   font-weight:bold;
 }
 
